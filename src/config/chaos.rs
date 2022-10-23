@@ -204,6 +204,7 @@ lazy_static! {
         "0xbfc7d3724229df69952bd814fce049eade5b35c17c68040fb6a0e10da176b27b",
         "0xe28b0caf84a8ba8a87b0021a40b4b0f9f256d9242a63343d626e6e96f5514bfd",
         "0x913a879e2d8057134a8d5adbb6fb47996fcc4c8e76d9b8c0c9c85ed442b918ee",
+        "0x820fb181a53837109c112d052f38a3c88325ece3d5eaf6bee3b8d5556a41d71f",
     ]
     .into_iter()
     .map(|a| a.parse().unwrap())
